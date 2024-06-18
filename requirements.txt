@@ -31,5 +31,5 @@ six==1.15.0
 SQLAlchemy==1.4.9
 toml==0.10.2
 tqdm==4.60.0
-urllib3==1.26.4
+urllib3==1.26.19
 Werkzeug==1.0.1
