@@ -33,3 +33,4 @@ toml==0.10.2
 tqdm==4.60.0
 urllib3==1.26.4
 Werkzeug==1.0.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
